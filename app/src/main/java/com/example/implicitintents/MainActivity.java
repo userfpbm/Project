@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText mLocationEditText;
     private EditText mShareTextEditText;
     private int n=0;
+    private int l;
     @Override
     protected void onCreate ( Bundle savedInstanceState ) {
         super.onCreate ( savedInstanceState );
