@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText mWebsiteEditText;
     private EditText mLocationEditText;
     private EditText mShareTextEditText;
+    private int n=0;
     @Override
     protected void onCreate ( Bundle savedInstanceState ) {
         super.onCreate ( savedInstanceState );
